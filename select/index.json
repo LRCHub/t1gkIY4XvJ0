@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "かすかなはな - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2)（feat. BABYMETAL）",
   "base_artist": "キタニタツヤ",
-  "createdAt": "2026-03-13T07:27:55.831449Z",
+  "createdAt": "2026-03-26T13:56:43.625528Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -35,6 +35,14 @@
       "artist": "Tatsuya Kitani",
       "has_synced": true,
       "path": "select/04_かすかなはな_-_Kasuka_na_Hana_(OP_Theme_to_Hell's_Paradise__Jigokuraku_Season_2)_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "かすかなはな - Kasuka na Hana- (OP Theme to Hell's Paradise: Jigokuraku Season 2) feat. BABYMETAL",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/05_かすかなはな_-_Kasuka_na_Hana-_(OP_Theme_to_Hell's_Paradise__Jigokuraku_Season_2)_feat_キタニタツヤ.lrc"
     },
     {
       "id": "petitlyrics_1",
